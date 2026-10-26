@@ -1,0 +1,14 @@
+{
+  "name": "alt-text-llava",
+  "version": "1.0.0",
+  "maincCaVS SXASXNSQZ ZXVXSC": "index.js",
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "author": "Kavya M",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.3.0",
+    "multer": "^2.5.0"
+  }
+}
